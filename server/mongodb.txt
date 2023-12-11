@@ -1,0 +1,20 @@
+username : nazeedkhan10
+password : nazeedkhan10
+
+{
+    "bookTitle":"The Reformatory",
+    "authorName":"Tananarive Due",
+    "imageURL":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686761184i/62919847.jpg",
+    "category":"fiction",
+    "bookDescription":"A gripping, page-turning novel set in Jim Crow Florida that follows Robert Stephens Jr. as he’s sent to a segregated reform school that is a chamber of terrors where he sees the horrors of racism and injustice, for the living, and the dead.",
+    "bookPDFURL":"https://www.goodreads.com/book/show/62919847-the-reformatory"
+}
+
+{
+    "bookTitle":"The Perfect Child",
+    "authorName":"Lucinda Berry",
+    "imageURL":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547060657i/40886917.jpg",
+    "category":"Psychological",
+    "bookDescription":"Christopher and Hannah are a happily married surgeon and nurse with picture-perfect lives. All that’s missing is a child. When Janie, an abandoned six-year-old, turns up at their hospital, Christopher forms an instant connection with her, and he convinces Hannah they should take her home as their own.",
+    "bookPDFURL":"https://www.goodreads.com/book/show/40886917-the-perfect-child"
+}
